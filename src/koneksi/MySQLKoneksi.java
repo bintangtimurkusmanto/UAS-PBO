@@ -14,10 +14,6 @@ import java.util.logging.Logger;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author rosihanari
- */
 public class MySQLKoneksi {
     
     // atribut untuk keperluan koneksi ke mysql

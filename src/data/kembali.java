@@ -12,7 +12,7 @@ import koneksi.MySQLKoneksi;
 
 /**
  *
- * @author Bintang
+ * @author Halim Mukti M
  */
 public class kembali {
     

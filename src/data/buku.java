@@ -10,7 +10,7 @@ import java.sql.*;
 
 /**
  *
- * @author Bintang
+ * @author Shella Fatmawati
  */
 public class buku extends CRUD{
    

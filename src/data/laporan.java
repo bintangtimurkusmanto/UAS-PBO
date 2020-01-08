@@ -13,7 +13,7 @@ import koneksi.MySQLKoneksi;
 
 /**
  *
- * @author Bintang
+ * @author Muhammad Rizki F
  */
 public class laporan {
     

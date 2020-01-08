@@ -7,10 +7,6 @@ package data;
 
 import koneksi.MySQLKoneksi;
 
-/**
- *
- * @author Bintang
- */
 public abstract class CRUD {
     // atribut buku
     public String kodeBuku;

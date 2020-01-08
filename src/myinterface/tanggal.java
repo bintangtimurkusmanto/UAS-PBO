@@ -5,10 +5,6 @@
  */
 package myinterface;
 
-/**
- *
- * @author Bintang
- */
 public interface tanggal {
     public String getTanggal();
     public String getTglKembali();

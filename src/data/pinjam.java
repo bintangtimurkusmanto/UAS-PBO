@@ -10,7 +10,7 @@ import java.sql.*;
 
 /**
  *
- * @author Bintang
+ * @author Zulfa Candraningrum
  */
 public class pinjam {
     

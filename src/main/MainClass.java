@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author Bintang
+ * @author Bintang Timur K
  */
 public class MainClass implements tanggal {
 

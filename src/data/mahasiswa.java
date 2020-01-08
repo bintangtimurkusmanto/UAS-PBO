@@ -10,7 +10,7 @@ import java.sql.*;
 
 /**
  *
- * @author Bintang
+ * @author Alifia Diah Ayu P
  */
 public class mahasiswa extends CRUD {
     
