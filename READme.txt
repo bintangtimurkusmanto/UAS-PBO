@@ -1,0 +1,1 @@
+Sebelum menjalankan program harap import terlebih dahulu databasenya ke mySQL dengan nama database perpustakaan.
